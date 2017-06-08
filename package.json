@@ -1,0 +1,22 @@
+{
+  "name": "tennis-scoreboard",
+  "version": "1.0.0",
+  "description": "tennis score board",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "tennis",
+    "score",
+    "board",
+    "games",
+    "set"
+  ],
+  "author": "Vijay Reddy",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.0.2"
+  }
+}
